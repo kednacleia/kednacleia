@@ -1,4 +1,1 @@
-- 👋 Oi,  eu sou Kedna Sousa (@kednacleia).
-- 🌱  Atualmente estou aprendendo Python 3. 
-- 👋 Hi, I’m Kedna Sousa (@kednacleia).
-- 🌱 I’m currently learning Python 3.
+💻
